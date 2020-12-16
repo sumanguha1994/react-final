@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417765346608",
+    "firebase_url": "https://subriddhi.firebaseio.com",
+    "project_id": "subriddhi",
+    "storage_bucket": "subriddhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417765346608:android:3b1c8331e8db81d320ccf5",
+        "android_client_info": {
+          "package_name": "com.subridhhiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417765346608-u1mi6jp2nj4ie0k1c5p1k87921tlc3if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subridhhiapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "417765346608-m14iu1stm109jg8vum8o4ca67iii9hr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelUemUrwc28Ol2QasXVfQlBo0QIC_9f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417765346608-m14iu1stm109jg8vum8o4ca67iii9hr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
